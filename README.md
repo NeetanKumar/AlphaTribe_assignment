@@ -37,7 +37,8 @@ Now navigate to main directory and run following command to install dependencies
 Start the back-end by hitting
 ```bash
   npm start
-```  
+```
+Now you can test the code with the endpoints using Postman
 ## Documentation
 Postman documentation is attached here with all the endpoints that were supposed to run
 
