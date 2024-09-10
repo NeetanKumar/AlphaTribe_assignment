@@ -25,10 +25,11 @@ To run this project, you will need to add the following environment variables to
 `JWT_SECRET=yoursecretkey`
 
 `PORT=5000`
+
 Note: You need to add your own mongodb URl in .env
 
-      You can keep JWT_SECRET as any key of your choice
-      
+You can keep JWT_SECRET as any key of your choice
+
 Now navigate to main directory and run following command to install dependencies
 ```bash
   npm install 
