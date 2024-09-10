@@ -8,13 +8,13 @@ This project is built using the MERN stack (MongoDB, Express, Node.js) and provi
 
 Following features are incorporated:
 
--User Authentication: Users can register and log in using JWT-based authentication.
+*User Authentication: Users can register and log in using JWT-based authentication.
 
--Posts and Discussions: Users can create posts related to stock discussions, comment on posts, and like or unlike posts.
+*Posts and Discussions: Users can create posts related to stock discussions, comment on posts, and like or unlike posts.
 
--Search and Filter: Users can search for specific stock-related posts or filter by tags.
+*Search and Filter: Users can search for specific stock-related posts or filter by tags.
 
--Pagination: Paginates as per queries i.e page no. and limit
+*Pagination: Paginates as per queries i.e page no. and limit
 
 ## Installation
 Download the code from the repository, unzip it and open the project in VSCode.
